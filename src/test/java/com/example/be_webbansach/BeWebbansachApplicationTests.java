@@ -9,8 +9,6 @@ class BeWebbansachApplicationTests {
 
 	@Test
 	void contextLoads() {
-//		TheLoai theLoai = new TheLoai();
-//		theLoai.setId(1);
 	}
 
 }
